@@ -5,4 +5,8 @@ Tutorial commit
 =======
 tutorial2 commit
 >>>>>>> 439209d16e7a8e88ee39a2d10a413f2f85621a30
+<<<<<<< HEAD
 加入等級系統
+=======
+加入任務內容
+>>>>>>> branch1
